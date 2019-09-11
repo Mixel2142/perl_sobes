@@ -1,0 +1,17 @@
+[Wed Sep 04 20:51:27.674009 2019] [authz_core:error] [pid 3308:tid 139882470643456] [client 127.0.0.1:41704] AH01630: client denied by server configuration: /home/efremov/www/test/
+[Wed Sep 04 20:51:27.793826 2019] [authz_core:error] [pid 3308:tid 139882479036160] [client 127.0.0.1:41704] AH01630: client denied by server configuration: /home/efremov/www/test/favicon.ico
+[Wed Sep 04 20:51:27.849109 2019] [authz_core:error] [pid 3308:tid 139882362029824] [client 127.0.0.1:41704] AH01630: client denied by server configuration: /home/efremov/www/test/favicon.ico
+[Wed Sep 04 20:52:09.098563 2019] [authz_core:error] [pid 3309:tid 139882470643456] [client 127.0.0.1:41708] AH01630: client denied by server configuration: /home/efremov/www/test/
+[Wed Sep 04 20:52:09.984363 2019] [authz_core:error] [pid 3309:tid 139882387207936] [client 127.0.0.1:41708] AH01630: client denied by server configuration: /home/efremov/www/test/
+[Wed Sep 04 20:52:34.991080 2019] [authz_core:error] [pid 3308:tid 139882387207936] [client 127.0.0.1:52466] AH01630: client denied by server configuration: /home/efremov/www/test/
+[Wed Sep 04 20:52:35.076238 2019] [authz_core:error] [pid 3308:tid 139882336851712] [client 127.0.0.1:52466] AH01630: client denied by server configuration: /home/efremov/www/test/favicon.ico
+[Wed Sep 04 20:52:35.078012 2019] [authz_core:error] [pid 3308:tid 139882118772480] [client 127.0.0.1:52468] AH01630: client denied by server configuration: /home/efremov/www/test/favicon.ico
+[Wed Sep 04 20:52:39.745417 2019] [authz_core:error] [pid 3308:tid 139882370422528] [client 127.0.0.1:52466] AH01630: client denied by server configuration: /home/efremov/www/test/
+[Wed Sep 04 20:52:41.820436 2019] [authz_core:error] [pid 3308:tid 139882101987072] [client 127.0.0.1:52466] AH01630: client denied by server configuration: /home/efremov/www/test/
+[Wed Sep 04 20:52:42.826452 2019] [authz_core:error] [pid 3308:tid 139882076808960] [client 127.0.0.1:52466] AH01630: client denied by server configuration: /home/efremov/www/test/
+[Wed Sep 04 20:56:37.760304 2019] [authz_core:error] [pid 3616:tid 139809138755328] [client 127.0.0.1:52598] AH01630: client denied by server configuration: /home/efremov/www/test/
+[Wed Sep 04 20:56:57.813580 2019] [authz_core:error] [pid 3616:tid 139808903001856] [client 127.0.0.1:47740] AH01630: client denied by server configuration: /home/efremov/www/test/
+[Wed Sep 04 20:57:00.533929 2019] [authz_core:error] [pid 3615:tid 139809113577216] [client 127.0.0.1:41916] AH01630: client denied by server configuration: /home/efremov/www/test/
+[Wed Sep 04 20:57:05.271477 2019] [authz_core:error] [pid 3616:tid 139808718427904] [client 127.0.0.1:52672] AH01630: client denied by server configuration: /home/efremov/www/test/
+[Wed Sep 04 20:57:05.357251 2019] [authz_core:error] [pid 3616:tid 139808886216448] [client 127.0.0.1:52672] AH01630: client denied by server configuration: /home/efremov/www/test/favicon.ico
+[Wed Sep 11 08:29:56.522410 2019] [cgid:error] [pid 9896:tid 140461015095040] (22)Invalid argument: [client 127.0.0.1:48074] AH01257: unable to connect to cgi daemon after multiple tries: /var/www/test/cgi-bin/echo.pl
